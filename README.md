@@ -1,6 +1,6 @@
 - 👋 Olá, sou Rodrigo Barbosa.
-- 👀 Sou Publicitário por formação e atualmente trabalho como fotógrado e videomaker. 
-- 🌱 Buscando migraçao para Tecnologia da Informação, atuamente curso o 3º período em Sistemas Para Internet (2024.1).
+- 👀 Sou Publicitário, com experiência na criação de conteúdo audiovisual e desenvolvimento de websites no WordPress. Buscando transição para área de tecnologia, 
+- 🌱 Atuamente curso o 4º período em Sistemas Para Internet, com término previsto para Junho de 2025.
 
 
 <!---
