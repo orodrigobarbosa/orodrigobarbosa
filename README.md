@@ -1,6 +1,6 @@
 - 👋 Olá, sou Rodrigo Barbosa.
 - 👀 Sou Publicitário, com experiência na criação de conteúdo audiovisual e desenvolvimento de websites no WordPress. Buscando transição para área de tecnologia, 
-- 🌱 Atuamente curso o 4º período em Sistemas Para Internet, com término previsto para Junho de 2025.
+- 🌱 Atuamente, estou estagiando no Tribunal Regional da Paraíba, enquanto curso o 5º período em Sistemas Para Internet, com término previsto para Junho de 2025.
 
 
 <!---
